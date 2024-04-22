@@ -43,7 +43,7 @@ eradicate.()
 
 
 
-### Checklist for myself
+### Checklist for myself 😄
 
 - [ ] Used markdown properly
 - [ ] didn't use a cheatsheet
