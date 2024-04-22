@@ -2,7 +2,7 @@
 
 by **Justin**.
 
-## ***Spiders***...
+## `Spiders`...
 [^1]  
 
 >**__Why though?__**
