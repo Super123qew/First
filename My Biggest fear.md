@@ -25,6 +25,7 @@ by **Justin**.
 1. ~~Its very hairy~~ **I already said that didn't I?**
 2. Big fangs
 3. Look at that back!
+4. Does it even breathe out CO<sub>2</sub>
 
 ## A YouTube link to spiders!
 
@@ -33,7 +34,7 @@ by **Justin**.
 |[#1](https://www.youtube.com/shorts/Xx1rZN8FeJg)    |  Look how many of them are! They look like little demons|  
 
 ### I even created a line of code to eradicate them
-```
+```js
 {
  function killSpider () {
 if spider = true
