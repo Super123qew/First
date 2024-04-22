@@ -37,7 +37,7 @@ by **Justin**.
 {
  function killSpider () {
 if spider = true
-splice. ()
+eradicate.()
 }
 ```
 
